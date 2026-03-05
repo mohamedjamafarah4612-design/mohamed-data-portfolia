@@ -1,29 +1,23 @@
-# Mohamed Jama Farah – Data Analytics Portfolio
+# Mohamed Jama Farah – Data Analyst Portfolio
 
-## About Me
-Aspiring Data Analyst skilled in Excel, SQL, and Data Visualization.
-Passionate about turning raw data into meaningful business insights.
+## 👨‍💻 About Me
+I am an aspiring Data Analyst with a passion for transforming data into insights. Skilled in SQL, Microsoft Excel, and data visualization. Currently building out my professional portfolio based on real project work.
 
----
+## 🛠 Skills
+- SQL (JOIN, Aggregation, Subqueries)
+- Excel (PivotTables, Dashboards, Slicers, Charts)
+- Data Cleaning & Visualization
+- GitHub version control
 
-## Skills
-- Microsoft Excel (PivotTables, Dashboards)
-- SQL (JOIN, GROUP BY, Filtering)
-- Data Cleaning
-- Data Visualization
-- GitHub
+## 📁 Projects
+### Excel Sales Dashboard
+Interactive dashboard with KPI metrics and business insights.
+👉 Folder: Excel-Sales-Dashboard
 
----
+### SQL Retail Sales Analysis
+SQL analysis answering key business questions from a sales dataset.
+👉 Folder: SQL-Retail-Analysis
 
-## Projects
-
-### 1. Sales Dashboard Project
-Interactive Excel dashboard analyzing sales performance.
-
-Tools Used:
-- Excel
-- PivotTables
-- KPI Metrics
-- Slicers
-
-More projects coming soon...
+## 📬 Contact
+📧 mohamedjamafarah4612@gmail.com  
+🌍 Remote Available
