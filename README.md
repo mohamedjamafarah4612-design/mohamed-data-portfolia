@@ -1,23 +1,49 @@
-# Mohamed Jama Farah – Data Analyst Portfolio
+# Mohamed Jama Farah – Data Analytics Portfolio
 
 ## 👨‍💻 About Me
-I am an aspiring Data Analyst with a passion for transforming data into insights. Skilled in SQL, Microsoft Excel, and data visualization. Currently building out my professional portfolio based on real project work.
+I am an aspiring Data Analyst with hands-on experience in SQL and Microsoft Excel. 
+I specialize in transforming raw data into meaningful business insights through structured analysis and interactive dashboards.
 
-## 🛠 Skills
-- SQL (JOIN, Aggregation, Subqueries)
-- Excel (PivotTables, Dashboards, Slicers, Charts)
-- Data Cleaning & Visualization
-- GitHub version control
+I am currently expanding my technical skills and building real-world projects to prepare for remote and international opportunities.
 
-## 📁 Projects
-### Excel Sales Dashboard
-Interactive dashboard with KPI metrics and business insights.
-👉 Folder: Excel-Sales-Dashboard
+---
 
-### SQL Retail Sales Analysis
-SQL analysis answering key business questions from a sales dataset.
-👉 Folder: SQL-Retail-Analysis
+## 🛠 Technical Skills
+
+**Data & Analysis**
+- SQL (JOIN, GROUP BY, Subqueries, Aggregations)
+- Data Cleaning & Transformation
+- Business Data Analysis
+
+**Tools**
+- Microsoft Excel (PivotTables, PivotCharts, KPI Dashboards, Slicers)
+- GitHub (Version Control & Documentation)
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Sales Performance Dashboard (Excel)
+Interactive dashboard analyzing revenue, profit, product performance, and business trends.
+
+📁 Folder: Excel-Sales-Dashboard
+
+---
+
+### 🔹 Retail Sales SQL Analysis
+SQL-based analysis answering key business questions from structured sales data.
+
+📁 Folder: SQL-Retail-Analysis
+
+---
+
+## 🎓 Education
+Bachelor of Social Work  
+Salaam University  
+Expected Graduation: 2027
+
+---
 
 ## 📬 Contact
 📧 mohamedjamafarah4612@gmail.com  
-🌍 Remote Available
+🌍 Available for Remote Work
